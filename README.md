@@ -1,6 +1,6 @@
 # Daily-Planner
-Hey, this is my first github project!! This is just a web based daily-planner app ui concept demo. hope you all like it you can try it by clicking on the link below. <br/>
-ALERT-Only for mobs and not for desktops or laptops.<br/>
+Hey, this is my <code>first</code> github project!! This is just a web based daily-planner app ui concept demo. hope you all like it you can try it by clicking on the link below. <br/>
+ALERT-Only for mobs and not for <code>desktops</code> or <code>laptops</code>.<br/>
 <p align="right"> HAPPY CODING<br/>
 regards SAMEER<br/> </p>
 
