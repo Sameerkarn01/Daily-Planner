@@ -1,4 +1,13 @@
-# Daily-Planner
+<!--
+Hey this is Sameer
+and Thanks for checking my readme
+if you like my work then please
+follow me 
+cuz it motivates me a lot
+thanks for your support
+:D
+-->
+# Daily-Planner [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/codeninja02)
 Hey, this is my <code>first</code> github project!! This is just a web based daily-planner app ui concept demo. hope you all like it you can try it by clicking on the link below. <br/>
 ALERT-Only for mobs and not for <code>desktops</code> or <code>laptops</code>.<br/>
 <p align="right"> HAPPY CODING<br/>
